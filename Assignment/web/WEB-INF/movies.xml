@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<movies>
+    <movie>
+        <title>IT</title>
+        <genre>Horror</genre>
+        <releaseDate>17/09/17</releaseDate>
+        <price>$10.66</price>
+        <availableCopies>2</availableCopies>
+    </movie>
+    <movie>
+        <title>Titanic</title>
+        <genre>Romance</genre>
+        <releaseDate>17/09/97</releaseDate>
+        <price>$12.98</price>
+        <availableCopies>1</availableCopies>
+    </movie>
+    <movie>
+        <title>Inception</title>
+        <genre>Thriller</genre>
+        <releaseDate>22/07/10</releaseDate>
+        <price>$6.98</price>
+        <availableCopies>2</availableCopies>
+    </movie>
+    <movie>
+        <title>Gladiator</title>
+        <genre>History</genre>
+        <releaseDate>04/05/00</releaseDate>
+        <price>$7.99</price>
+        <availableCopies>4</availableCopies>
+    </movie>
+    <movie>
+        <title>Moonlight</title>
+        <genre>Drama</genre>
+        <releaseDate>21/10/16</releaseDate>
+        <price>$12.98</price>
+        <availableCopies>7</availableCopies>
+    </movie>
+    <movie>
+        <title>Stardust</title>
+        <genre>Fantasy</genre>
+        <releaseDate>20/09/07</releaseDate>
+        <price>$9.75</price>
+        <availableCopies>6</availableCopies>
+    </movie>
+    <movie>
+        <title>Happiness</title>
+        <genre>Indie</genre>
+        <releaseDate>06/12/07</releaseDate>
+        <price>$15.00</price>
+        <availableCopies>8</availableCopies>
+    </movie>
+    <movie>
+        <title>Clueless</title>
+        <genre>Comedy</genre>
+        <releaseDate>21/09/95</releaseDate>
+        <price>$8.49</price>
+        <availableCopies>1</availableCopies>
+    </movie>
+    <movie>
+        <title>Skyfall</title>
+        <genre>Action</genre>
+        <releaseDate>22/11/12</releaseDate>
+        <price>$6.98</price>
+        <availableCopies>7</availableCopies>
+    </movie>
+    <movie>
+        <title>Intersteller</title>
+        <genre>06/11/14</genre>
+        <releaseDate>06/11/14</releaseDate>
+        <price>$6.50</price>
+        <availableCopies>3</availableCopies>
+    </movie>
+</movies>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<users>
+    <user>
+        <name>Rachel Toy</name>
+        <email>rachel.toy@gmail.com</email>
+        <password>banana</password>
+        <phoneNumber>0412775922</phoneNumber>
+        <address>31 Birdwood Avenue, Auburn, Sydney</address>
+    </user>
+    <user>
+        <name>Stephanie Lee</name>
+        <email>stephanie.lee@icloud.com</email>
+        <password>grape</password>
+        <phoneNumber>0460224055</phoneNumber>
+        <address>41 Nottingham Crescent, Chipping Norton, Sydney</address>
+    </user>
+    <user>
+        <name>Daniel Howarth</name>
+        <email>danyboy@hotmail.com</email>
+        <password>tomato</password>
+        <phoneNumber>0469339611</phoneNumber>
+        <address>98 Adova Street, North Bumpton, Adelaide</address>
+    </user>
+    <user>
+        <name>Andrea Godoy</name>
+        <email>andrea.godoy@gmail.com</email>
+        <password>apple</password>
+        <phoneNumber>0429526866</phoneNumber>
+        <address>69 Laurel Place, Parramatta, Melbourne</address>
+    </user>
+    <user>
+        <name>Marcus Gerstner</name>
+        <email>marcus.gurstner@yahoo.com</email>
+        <password>carrot</password>
+        <phoneNumber>0429630542</phoneNumber>
+        <address>23 Spagnolo Lane, Austral, Perth</address>
+    </user>
+</users>
